@@ -1,3 +1,10 @@
+This game was programmed during [Ludum Dare 48](https://ldjam.com/events/ludum-dare/48).  
+
+What is Ludum Dare?  
+Short version: You have 72 hours. Build a game!
+
+You can find the original submission [here](https://ldjam.com/events/ludum-dare/48/down-the-descend)!
+
 # The Concept
 *DOWN - The Descend* is a first person shooter that places you in a bottomless tower filled with weird creatures that thirst for your blood. You don't know how and you don't know why, but somehow you have to fight your way down...  
 The number in the top left corner tells you how far you have already descended.
