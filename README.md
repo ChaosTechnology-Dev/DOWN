@@ -81,7 +81,7 @@ Portals are a fast way to travel around an arena or evade enemies. Every portal 
 # Controls
 
 | Action                         | Keyboard                 | Mouse          | Controller (XBox / Playstation) |
-| :---------------------------:  | :----------------------: | :------------: | :-----------------------------: |
+| :----------------------------  | :----------------------: | :------------: | :-----------------------------: |
 | Walk                           | W,A,S,D or Arrow Keys    | -              | Left Stick                      |
 | Turn                           | -                        | Move           | Right Stick                     |
 | Jump                           | Space                    | -              | A / Cross                       |
@@ -95,6 +95,13 @@ Portals are a fast way to travel around an arena or evade enemies. Every portal 
 | Quick Switch (Shotgun)         | 1                        | -              | -                               |
 | Quick Switch (Rocket Launcher) | 2                        | -              | -                               |
 | Quick Switch (Slingshot)       | 3                        | -              | -                               |
+| Take Screenshot                | Print                    | -              | Back / Share                    |
+| Main Menu - Start Game         | -                        | Menu Button    | A / Cross                       |
+| Main Menu - Settings           | -                        | Menu Button    | X / Square                      |
+| Main Menu - End Game           | -                        | Menu Button    | Y / Triangle                    |
+| Pause Menu - Start Game        | -                        | Menu Button    | A / Cross                       |
+| Pause Menu - to Main Menu      | -                        | Menu Button    | X / Square                      |
+| Pause Menu - End Game          | -                        | Menu Button    | Y / Triangle                    |
 
 Apart from PlayStation and XBox controllers, every HID conform controller should work, but some may mix up some buttons.
 
